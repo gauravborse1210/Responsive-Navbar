@@ -1,0 +1,8 @@
+@media (max-width: 790px){
+  .container{
+    display: none;
+  }
+  .ham-icon{
+    display: block;
+  }
+}
